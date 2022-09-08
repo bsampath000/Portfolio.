@@ -1,0 +1,29 @@
+h1 {
+    font-weight: bold;
+    font-size: 64px;
+    color: #FFFFFF;
+    margin: 12px 0;
+}
+
+.home-section p {
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 33px;
+    color: #E4E7FF;
+    margin: 0;
+}
+
+.home-section button {
+    font-weight: 300;
+    margin-top: 24px;
+    background: #283ADF;
+    border-radius: 6px;
+    color: #FFFFFF;
+    font-size: 24px;
+    border: none;
+    padding: 12px 45px
+}
+
+.home-section .text-container {
+    max-width: 640px;
+}
